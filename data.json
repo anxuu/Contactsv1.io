@@ -1,0 +1,45 @@
+{
+    "contacts": [
+        {
+            "name": "Rajan",
+            "photo": "http://assets.stickpng.com/images/585e4bcdcb11b227491c3396.png",
+            "mobile": "9999009090",
+            "email": "rajan@gmail.com",
+            "title": "Software Engineer",
+            "company": "HCL Technologies",
+            "groupid": "1"
+        },
+        {
+            "name": "Ananya",
+            "photo": "http://assets.stickpng.com/images/585e4bcfcb11b227491c33a2.png",
+            "mobile": "8888008080",
+            "email": "ananya@gmail.com",
+            "title": "Project Manager",
+            "company": "TCS",
+            "groupid": "3"
+        },
+        {
+            "name": "Rahul",
+            "photo": "http://assets.stickpng.com/images/585e4bcdcb11b227491c3398.png",
+            "mobile": "7777007070",
+            "email": "rahul@gmail.com",
+            "title": "Data Analyst",
+            "company": "Infosys",
+            "groupid": "2"
+        }
+    ],
+    "group": [
+        {
+            "id": "1",
+            "name": "collegue"
+        },
+        {
+            "id": "2",
+            "name": "gym"
+        },
+        {
+            "id": "3",
+            "name": "doctors"
+        }
+    ]
+}
