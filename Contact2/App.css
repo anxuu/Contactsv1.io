@@ -1,0 +1,42 @@
+.contact-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+}
+
+.card {
+
+    width: 100%;
+    background-color: bisque;
+    border: 1px solid #ddd;
+
+}
+
+/* .row {
+    color: brown;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    width: 100%;
+
+} */
+
+.newrow {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.details {
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 8px;
+}
